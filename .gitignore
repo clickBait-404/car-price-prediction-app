@@ -1,0 +1,6 @@
+
+
+carprice/
+__pycache__/
+*.pyc
+.env
